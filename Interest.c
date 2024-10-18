@@ -12,7 +12,7 @@
   scanf("%f",&R);
     printf("Enter the principal value T:\n");
   scanf("%f",&T);
-//S=P*R*T/100;
+
    printf("Calculate the simple interest = %f",(P*R*T)/100);
 
 return 0;
