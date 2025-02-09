@@ -4,7 +4,7 @@
     int main()
 {
     float P,R,T;
-                    //Calculate the simple interest
+                  //Calculate the simple interest
 
     printf("Enter the principal value P:\n");
    scanf("%f",&P);
