@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>  
 
-     int main()
+     int main() 
 {
    float F,C;
         printf("Enter the celsius = ");
@@ -11,6 +11,7 @@
     
 return 0;
 }
+
 
 
 
