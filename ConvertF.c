@@ -1,7 +1,7 @@
 frin#include<stdio.h>    
 #include<conio.h> 
      int main() 
-{ 
+{  
    float F,C; 
          printf("Enter the celsius = ");
         scanf("%f",&C); 
@@ -10,6 +10,7 @@ frin#include<stdio.h>
     
 return 0; 
 }
+
 
 
 
