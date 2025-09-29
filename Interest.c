@@ -1,7 +1,7 @@
 #include<stdio.h> 
 #include<conio.h>   
  
-    int main()
+    int main() 
 {  
     float P,R,T; 
                   //Calculate the simple interest
@@ -16,6 +16,7 @@
 
 return 0;
 }
+
 
 
 
