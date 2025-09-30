@@ -1,4 +1,4 @@
-frin#include<stdio.h>    
+#include<stdio.h>    
 #include<conio.h> 
      int main() 
 {  
@@ -10,6 +10,7 @@ frin#include<stdio.h>
     
 return 0; 
 }
+
 
 
 
