@@ -2,7 +2,6 @@
 #include<conio.h> 
  
     int main()
-
     float P,R,T; 
                   //Calculate the simple interest
     printf("Enter the principal value P:\n");
@@ -16,6 +15,7 @@
 
 return 0;
 }
+
 
 
 
