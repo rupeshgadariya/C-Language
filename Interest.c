@@ -13,8 +13,9 @@
 
   printf("Calculate the simple interest = %f",(P*R*T)/100);
 
-return 0;
+return 0; 
 }
+
 
 
 
