@@ -9,12 +9,13 @@
    printf("Enter the princip outal value R:\n");
   scanf("%f",&R);
     printf("Enter the principal value T:\n");
-  scanf("%f",&T); 
+  scanf("%f",&T);  
 
   printf("Calculate the simple interest = %f",(P*R*T)/100);
 
 return 0; 
 }
+
 
 
 
