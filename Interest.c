@@ -1,5 +1,5 @@
  #include<stdio.h> 
-#include<conio.h
+#include<conio.h>
   
     int main()  
     float P,R,T;  
@@ -15,6 +15,7 @@
 
 return 0;
  }  
+
 
 
 
